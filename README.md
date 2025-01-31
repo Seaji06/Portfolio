@@ -69,70 +69,55 @@
   <img src="https://komarev.com/ghpvc/?username=Seaji06&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </div>
 
-# Personal Portfolio Website
+# <a href="#" target="_blank">My Portfolio</a>
+<p align="justify">A modern portfolio website showcasing my expertise as a Backend Developer and Python Specialist.</p>
 
-A modern and responsive portfolio website showcasing my work as a Backend Developer and Python Specialist.
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)]()
+[![Author](https://img.shields.io/badge/Author-Cedric%20John-purple.svg)](https://github.com/Seaji06)
+<a href="LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
 
-## 🚀 Live Demo
+:star: Star me on GitHub — it helps!
 
-[View Portfolio Website](#) <!-- Add your deployed website link here -->
+# Sections 📚
 
-## 🛠️ Built With
+✔️ Home Introduction\
+✔️ About Me\
+✔️ Technical Skills\
+✔️ Featured Projects\
+✔️ Contact Information
 
-- HTML5
-- Tailwind CSS
-- JavaScript
-- FontAwesome Icons
+## Installation & Deployment 📦
+- Clone the repository:
+  ```bash
+  git clone https://github.com/Seaji06/portfolio.git
+  ```
+- Open `index.html` in your browser or use Python's HTTP server:
+  ```bash
+  python -m http.server 8000
+  ```
+- Visit `http://localhost:8000` in your browser
 
-## ✨ Features
+## Tools Used 🛠️
+* [<b>GitHub</b>](https://github.com/) - To host the static website
+* [<b>Tailwind CSS</b>](https://tailwindcss.com/) - For modern and responsive styling
+* [<b>Font Awesome</b>](https://fontawesome.com/) - For icons
+* [<b>Intersection Observer</b>](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) - For scroll animations
 
-- Responsive design that works on all devices
-- Smooth scrolling navigation
-- Modern and clean UI
-- Project showcase
-- Direct email contact button
-- GitHub integration
-- Animation on scroll
-- Interactive hover effects
+## Featured Project 🎓
 
-## 🏗️ Project Structure
+### CodingNexus - Learning Management System
+- A comprehensive LMS for coding education
+- Built with Python, Django, Tailwind CSS
+- Features interactive lessons and progress tracking
+- [View Live Demo](https://codingnexus.onrender.com/)
 
-```
-Portfolio/
-├── index.html          # Main HTML file
-├── script.js           # JavaScript for interactions
-└── README.md          # Project documentation
-```
+## License 📄
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
-## 💻 Local Development
+---
 
-1. Clone the repository
-   ```bash
-   git clone https://github.com/Seaji06/portfolio.git
-   ```
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Seaji06&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages">
+</div>
 
-2. Open `index.html` in your browser
-   ```bash
-   # Using Python's HTTP server
-   python -m http.server 8000
-   ```
-
-3. Visit `http://localhost:8000` in your browser
-
-## 📱 Preview
-
-![Portfolio Preview](preview.png) <!-- Add a screenshot of your portfolio -->
-
-## 🔗 Links
-
-- [GitHub Profile](https://github.com/Seaji06)
-- [Live Website](#) <!-- Add your deployed website link here -->
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📫 Contact
-
-- Email: limcedricjohn@gmail.com
-- GitHub: [@Seaji06](https://github.com/Seaji06)
+Please contact me at limcedricjohn@gmail.com if you have any feedback for the website. :star: Star it, if you like it!
