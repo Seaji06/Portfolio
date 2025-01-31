@@ -51,3 +51,25 @@ document.querySelectorAll('.project-card').forEach(card => {
         e.currentTarget.style.transform = 'translateY(0)';
     });
 });
+
+// Mobile menu toggle
+const menuToggle = document.getElementById('menu-toggle');
+const mobileMenu = document.getElementById('mobile-menu');
+
+menuToggle.addEventListener('click', () => {
+    mobileMenu.classList.toggle('hidden');
+    // Change icon between bars and times
+    const icon = menuToggle.querySelector('i');
+    icon.classList.toggle('fa-bars');
+    icon.classList.toggle('fa-times');
+});
+
+// Close mobile menu when clicking a link
+document.querySelectorAll('#mobile-menu a').forEach(link => {
+    link.addEventListener('click', () => {
+        mobileMenu.classList.add('hidden');
+        const icon = menuToggle.querySelector('i');
+        icon.classList.add('fa-bars');
+        icon.classList.remove('fa-times');
+    });
+});
