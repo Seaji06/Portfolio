@@ -35,7 +35,7 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Seaji06&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages">
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seaji06&layout=compact&theme=dark" alt="Top Languages" />
+</div
 
 Please contact me at limcedricjohn@gmail.com if you have any feedback for the website. :star: Star it, if you like it!
